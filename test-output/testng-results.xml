@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50798" started-at="2017-11-16T07:54:44Z" finished-at="2017-11-16T07:55:35Z">
+    <groups>
+    </groups>
+    <test name="CRM Testing Regression" duration-ms="50798" started-at="2017-11-16T07:54:44Z" finished-at="2017-11-16T07:55:35Z">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="setup" is-config="true" duration-ms="19763" started-at="2017-11-16T13:24:44Z" finished-at="2017-11-16T13:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyContactsLabel()[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="verifyContactsLabel" duration-ms="364" started-at="2017-11-16T13:25:04Z" finished-at="2017-11-16T13:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsLabel -->
+        <test-method status="PASS" signature="selectAContact()[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="selectAContact" duration-ms="343" started-at="2017-11-16T13:25:04Z" finished-at="2017-11-16T13:25:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAContact -->
+        <test-method status="PASS" signature="addContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="addContact" duration-ms="8923" started-at="2017-11-16T13:25:05Z" data-provider="getTestData" finished-at="2017-11-16T13:25:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sir]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bruce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wayne]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[EPAM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="addContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="addContact" duration-ms="5916" started-at="2017-11-16T13:25:14Z" data-provider="getTestData" finished-at="2017-11-16T13:25:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Miss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jimmy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Case]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Musica]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="addContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="addContact" duration-ms="7382" started-at="2017-11-16T13:25:20Z" data-provider="getTestData" finished-at="2017-11-16T13:25:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Miss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Carl]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cruger]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sony Music]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="addContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="addContact" duration-ms="6533" started-at="2017-11-16T13:25:27Z" data-provider="getTestData" finished-at="2017-11-16T13:25:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sir]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jesse]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Fairy World]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@5c3bd550]" name="exit" is-config="true" duration-ms="854" started-at="2017-11-16T13:25:34Z" finished-at="2017-11-16T13:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- CRM Testing Regression -->
+  </suite> <!-- Suite -->
+</testng-results>

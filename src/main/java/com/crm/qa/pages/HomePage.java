@@ -18,7 +18,7 @@ public class HomePage extends BaseClass{
 	@FindBy(xpath="//a[contains(text(),'Tasks')]")
 	WebElement tasksLink;
 	
-	@FindBy(xpath="//td[contains(text(),'User: bhargav sai')]//")
+	@FindBy(xpath="//td[contains(text(),'User: bhargav sai')]")
 	WebElement usernametext;
 	
 	@FindBy(xpath="//a[contains(text(),'New Contact')]")

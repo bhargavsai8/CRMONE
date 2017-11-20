@@ -56,7 +56,7 @@ public class ContactsPageTest extends BaseClass {
 	{
 		log.info("select contacts lavel in test class");
 
-	 contactspage.selectAContact("Carl Cruger");
+	// contactspage.selectAContact("Carl Cruger");
 	 contactspage.selectAContact("Bruce Wayne");
 	}
 	

@@ -8,6 +8,7 @@
           <include name="setup"/>
           <include name="exit"/>
           <include name="selectAContact"/>
+          <include name="addContact" invocation-numbers="0 1 2 3"/>
         </methods>
       </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
     </classes>

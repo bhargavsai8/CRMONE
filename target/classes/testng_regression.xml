@@ -8,7 +8,7 @@
   <test name="CRM Testing Regression">
     <classes>
     <!--   <class name="com.crm.qa.testcases.LoginPageTest"></class> -->
-			<class name="com.crm.qa.testcases.ContactsPageTest"></class>
+			<class name="com.crm.qa.testcases.HomePageTest"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
